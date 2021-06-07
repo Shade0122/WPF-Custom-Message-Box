@@ -1,0 +1,17 @@
+C:\Users\dboua\source\repos\WPFCustomMessageBox\WPFCustomMessageBox\bin\Release\WPFCustomMessageBox.exe.config
+C:\Users\dboua\source\repos\WPFCustomMessageBox\WPFCustomMessageBox\bin\Release\WPFCustomMessageBox.exe
+C:\Users\dboua\source\repos\WPFCustomMessageBox\WPFCustomMessageBox\bin\Release\WPFCustomMessageBox.pdb
+C:\Users\dboua\source\repos\WPFCustomMessageBox\WPFCustomMessageBox\obj\Release\MessageBox.baml
+C:\Users\dboua\source\repos\WPFCustomMessageBox\WPFCustomMessageBox\obj\Release\MainWindow.g.cs
+C:\Users\dboua\source\repos\WPFCustomMessageBox\WPFCustomMessageBox\obj\Release\MessageBox.g.cs
+C:\Users\dboua\source\repos\WPFCustomMessageBox\WPFCustomMessageBox\obj\Release\App.g.cs
+C:\Users\dboua\source\repos\WPFCustomMessageBox\WPFCustomMessageBox\obj\Release\WPFCustomMessageBox_MarkupCompile.cache
+C:\Users\dboua\source\repos\WPFCustomMessageBox\WPFCustomMessageBox\obj\Release\WPFCustomMessageBox_MarkupCompile.lref
+C:\Users\dboua\source\repos\WPFCustomMessageBox\WPFCustomMessageBox\obj\Release\MainWindow.baml
+C:\Users\dboua\source\repos\WPFCustomMessageBox\WPFCustomMessageBox\obj\Release\WPFCustomMessageBox.g.resources
+C:\Users\dboua\source\repos\WPFCustomMessageBox\WPFCustomMessageBox\obj\Release\WPFCustomMessageBox.Properties.Resources.resources
+C:\Users\dboua\source\repos\WPFCustomMessageBox\WPFCustomMessageBox\obj\Release\WPFCustomMessageBox.csproj.GenerateResource.cache
+C:\Users\dboua\source\repos\WPFCustomMessageBox\WPFCustomMessageBox\obj\Release\WPFCustomMessageBox.csproj.CoreCompileInputs.cache
+C:\Users\dboua\source\repos\WPFCustomMessageBox\WPFCustomMessageBox\obj\Release\WPFCustomMessageBox.exe
+C:\Users\dboua\source\repos\WPFCustomMessageBox\WPFCustomMessageBox\obj\Release\WPFCustomMessageBox.pdb
+C:\Users\dboua\source\repos\WPFCustomMessageBox\WPFCustomMessageBox\obj\Release\WPFCustomMessageBox.csproj.AssemblyReference.cache
