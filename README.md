@@ -33,11 +33,6 @@ else
 return;
 ```
 
-## Contact
-If you want to contact me, or report any issues with it you can either do the following:
-* [Contact Me On Discord: Shade#0122](https://discord.com)
-* [Report Issues](https://github.com/Shade0122/WPF-Custom-Message-Box/issues)
-
 ## Insight
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
