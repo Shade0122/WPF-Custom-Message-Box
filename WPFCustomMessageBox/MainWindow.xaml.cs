@@ -11,37 +11,24 @@ namespace WPFCustomMessageBox
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-            if (MessageBox.Show("Custom WPF Message Box", "Shade#0122", MessageBoxButton.YesNo) == MessageBoxResult.Yes)
-            {
-                System.Windows.MessageBox.Show("Pressed: " + MessageBoxResult.Yes,"Shade#0122");
-            }
+            if (MessageBox.Show("Title", "Message", MessageBoxButton.YesNo) == MessageBoxResult.Yes)
+                System.Windows.MessageBox.Show("Pressed: " + MessageBoxResult.Yes);
             else
-            {
-                System.Windows.MessageBox.Show("Pressed: " + MessageBoxResult.No, "Shade#0122");
-            }
-            return;
+                System.Windows.MessageBox.Show("Pressed: " + MessageBoxResult.No);
         }
 
         private void Button_Click_2(object sender, RoutedEventArgs e)
         {
-            if (MessageBox.Show("Custom WPF Message Box", "Shade#0122", MessageBoxButton.OK) == MessageBoxResult.OK)
-            {
-                System.Windows.MessageBox.Show("Pressed: " + MessageBoxResult.OK, "Shade#0122");
-            }
-            return;
+            if (MessageBox.Show("Title", "Message", MessageBoxButton.OK) == MessageBoxResult.OK)
+                System.Windows.MessageBox.Show("Pressed: " + MessageBoxResult.OK);
         }
 
         private void Button_Click_3(object sender, RoutedEventArgs e)
         {
-            if (MessageBox.Show("Custom WPF Message Box", "Shade#0122", MessageBoxButton.OKCancel) == MessageBoxResult.OK)
-            {
-                System.Windows.MessageBox.Show("Pressed: " + MessageBoxResult.OK, "Shade#0122");
-            }
+            if (MessageBox.Show("Title", "Message", MessageBoxButton.OKCancel) == MessageBoxResult.OK)
+                System.Windows.MessageBox.Show("Pressed: " + MessageBoxResult.OK);
             else
-            {
-                System.Windows.MessageBox.Show("Pressed: " + MessageBoxResult.Cancel, "Shade#0122");
-            }
-            return;
+                System.Windows.MessageBox.Show("Pressed: " + MessageBoxResult.Cancel);
         }
     }
 }
