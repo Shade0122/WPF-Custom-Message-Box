@@ -1,26 +1,21 @@
 <p align="center">
-  <h3 align="center">WPF Custom Message Box</h3>
-  <p align="center">
-    <a href="https://github.com/Shade0122/WPF-Custom-Message-Box/raw/main/WPFCustomMessageBox/bin/Release/WPFCustomMessageBox.exe">Download The Demo</a>
-    ·
-    <a href="https://github.com/Shade0122/WPF-Custom-Message-Box/issues">Report A Bug</a>
-  </p>
+  <h1 align="center">WPF Custom Message Box</h3>
 </p>
     
-## What it looks like
+## Looks:
 `Yes/No`
 
-<img src="https://cdn.discordapp.com/attachments/838952814578761768/852927532055527484/unknown.png">
+<img src="https://cdn.discordapp.com/attachments/880755872781959189/962074702707322980/unknown.png">
 
 `Ok`
 
-<img src="https://cdn.discordapp.com/attachments/838952814578761768/852935929512853594/unknown.png">
+<img src="https://cdn.discordapp.com/attachments/880755872781959189/962074731375382568/unknown.png">
 
 `Ok/Cancel`
 
-<img src="https://cdn.discordapp.com/attachments/838952814578761768/852936209918853120/unknown.png">
+<img src="https://cdn.discordapp.com/attachments/880755872781959189/962074702707322980/unknown.png">
 
-## Example
+## Example:
 ```CS
 if (MessageBox.Show("Title For Message Box", "Description For Message Box", MessageBoxButton.YesNo /*YesNo or Ok or OkCancel*/) == MessageBoxResult.Yes /*Yes or No or Ok or Cancel*/)
 {
@@ -30,7 +25,6 @@ else
 {
   // Code to be executed if Yes is not pressed.
 }
-return;
 ```
 
 ## Insight
